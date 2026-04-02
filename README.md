@@ -33,5 +33,5 @@ A high-fidelity, minimalist Ethereum wallet interface designed for the modern we
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/your-username/zen-vault.git](https://github.com/your-username/zen-vault.git)
+   https://github.com/x-masrur/crypto-wallet.git
    
